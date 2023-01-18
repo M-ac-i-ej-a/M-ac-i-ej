@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate on every type of web/moblie-app projects
 - 📫 How to reach me 
       - email: maciej.slupianekge@gmail.com
-      - facebook: Maciej Słupianek
+      - linkedin: https://www.linkedin.com/in/maciej-s%C5%82upianek-686246237/
 
 
