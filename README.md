@@ -1,7 +1,8 @@
 * 👋 Hi, I’m Maciej
 * 👀 Been recently working on projects with MERN stack, databases, writing API 
-* 🌱 I’m currently working on: 
-    * MERN project
+* 🌱 I’m learning: 
+    * GO
+    * React Native
 * 💞️ I’m looking to collaborate on every type of web/moblie-app projects
 * 📫 How to reach me: 
     * email: maciej.slupianekge@gmail.com
