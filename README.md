@@ -1,7 +1,7 @@
 * 👋 Hi, I’m Maciej
 * 👀 Been recently working on projects with MERN stack, databases, writing API 
 * 🌱 I’m learning: 
-    * GO
+    * Nuxt
     * React Native
 * 💞️ I’m looking to collaborate on every type of web/moblie-app projects
 * 📫 How to reach me: 
