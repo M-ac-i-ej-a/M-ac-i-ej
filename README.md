@@ -1,8 +1,9 @@
 * 👋 Hi, I’m Maciej
-* 👀 Been recently working on projects with MERN stack, databases, writing API 
+* 👀 Been recently working on projects in React, Vue 
 * 🌱 I’m learning: 
-    * Nuxt
-    * React Native
+    * Spring
+    * Blender
+    * Vue 3
 * 💞️ I’m looking to collaborate on every type of web/moblie-app projects
 * 📫 How to reach me: 
     * email: maciej.slupianekge@gmail.com
